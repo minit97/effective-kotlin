@@ -1,6 +1,5 @@
 package com.effective.kotlin.item01
 
-import java.util.*
 import kotlin.concurrent.thread
 
 data class FullName(
