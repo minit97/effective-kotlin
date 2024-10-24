@@ -26,6 +26,7 @@ dependencies {
 
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 
+	implementation("com.google.code.gson:gson:2.8.9")
 
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
