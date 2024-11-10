@@ -1,4 +1,4 @@
-package com.effective.kotlin.item09
+package com.effective.kotlin.chapter01.item09
 
 import java.io.BufferedReader
 import java.io.File

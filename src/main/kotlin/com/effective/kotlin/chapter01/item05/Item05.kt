@@ -1,4 +1,4 @@
-package com.effective.kotlin.item05
+package com.effective.kotlin.chapter01.item05
 
 import java.rmi.server.LogStream.log
 

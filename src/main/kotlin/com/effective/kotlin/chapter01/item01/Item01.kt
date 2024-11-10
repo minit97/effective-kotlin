@@ -1,4 +1,4 @@
-package com.effective.kotlin.item01
+package com.effective.kotlin.chapter01.item01
 
 import kotlin.concurrent.thread
 

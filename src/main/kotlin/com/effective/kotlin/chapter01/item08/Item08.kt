@@ -1,4 +1,4 @@
-package com.effective.kotlin.item08
+package com.effective.kotlin.chapter01.item08
 
 /** 1. nullable 타입 처리
  * - ?. , 스마트 캐스팅, Evis 연산자 등을 활용해서 안전하게 처리한다.

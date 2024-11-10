@@ -1,4 +1,4 @@
-package com.effective.kotlin.item02
+package com.effective.kotlin.chapter01.item02
 
 import java.awt.Color
 

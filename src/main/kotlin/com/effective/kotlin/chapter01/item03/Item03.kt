@@ -1,4 +1,4 @@
-package com.effective.kotlin.item03
+package com.effective.kotlin.chapter01.item03
 
 class User(val name: String)
 

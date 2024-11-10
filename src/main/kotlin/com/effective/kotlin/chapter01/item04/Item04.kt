@@ -1,4 +1,4 @@
-package com.effective.kotlin.item04
+package com.effective.kotlin.chapter01.item04
 
 /** 1. inferred 타입으로 리턴하지마라
  */

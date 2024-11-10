@@ -1,4 +1,4 @@
-package com.effective.kotlin.item07
+package com.effective.kotlin.chapter01.item07
 import com.google.gson.Gson
 
 /** 1. 결과 부족이 발생할 경우 null과 Failure를 사용하라
